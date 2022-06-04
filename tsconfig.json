@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "target": "ES6",
+
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "strict": true,
+    "outDir": "./dist"
+  },
+  "files": ["src/index.ts", "src/car.ts", "src/controls.ts"]
+}
